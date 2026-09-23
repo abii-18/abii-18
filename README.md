@@ -83,40 +83,14 @@ Kafka · Flink · Kinesis
      STACK
 ========================= -->
 
+<!-- =========================
+     STACK
+========================= -->
+
 ## Stack
 
 <p align="center">
-  <img src="./logos.png" width="100%" alt="Data Engineering Stack" />
-</p>
-
-<p align="center">
-  <strong>Languages:</strong> Python · SQL
-  &nbsp;•&nbsp;
-  <strong>Processing:</strong> PySpark · Apache Spark
-  &nbsp;•&nbsp;
-  <strong>Orchestration:</strong> Apache Airflow · dbt
-</p>
-
-<p align="center">
-  <strong>AWS:</strong> S3 · Glue · Lambda · Redshift · Kinesis · CloudWatch · SNS · IAM
-</p>
-
-<p align="center">
-  <strong>Data:</strong> Snowflake · PostgreSQL · Amazon Redshift
-</p>
-
-<p align="center">
-  <strong>Streaming:</strong> Kafka · Flink · Spark Structured Streaming · Amazon Kinesis
-</p>
-
-<p align="center">
-  <strong>Engineering:</strong> Docker · Git
-</p>
-
-<p align="center">
-  <sub>
-    Kafka and Flink represent project / learning exposure rather than professional production experience.
-  </sub>
+  <img src="./logos.png" width="85%" alt="Data Engineering Stack" />
 </p>
 
 ---
