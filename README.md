@@ -4,7 +4,7 @@
 <tr>
 <td width="220" align="center">
 
-<img src="./me.png" width="180" alt="Abinav S." />
+<img src="./hero.png" width="180" alt="Abinav S." />
 
 </td>
 
@@ -42,10 +42,10 @@ Alongside professional work, I build end-to-end data engineering projects to dee
 
 ---
 
-## Certifications
+## What I Build
 
 <p align="center">
-  <img src="./certifications.png" width="90%" alt="AWS Certifications" />
+  <img src="./what-i-build.png" width="100%" alt="What I Build" />
 </p>
 
 ---
@@ -163,6 +163,14 @@ Building deeper expertise across:
 - **Data Engineering System Design**
 
 My projects increasingly focus on **end-to-end data platforms and production-oriented architectures**, with particular interest in applying data engineering patterns to **banking and financial-services use cases**.
+
+---
+
+## Certifications
+
+<p align="center">
+  <img src="./certifications.png" width="90%" alt="AWS Certifications" />
+</p>
 
 ---
 
