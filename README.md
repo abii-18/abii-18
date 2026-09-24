@@ -8,7 +8,7 @@
 
 ## About
 
-Data Engineer with ~2.5 years of professional experience plus a 3-month internship at **Virtusa**, working with AWS-based data engineering systems in the banking and financial-services domain.
+Data Engineer with ~2.5 years of professional experience working at **Virtusa**, working with AWS-based data engineering systems in the banking and financial-services domain.
 
 Professional work spans enterprise ETL workflows, Airflow orchestration, AWS Glue transformations, S3 data movement, Redshift loading, and production pipeline monitoring.
 
@@ -34,93 +34,51 @@ Outside of work, I build end-to-end data engineering projects focused on PySpark
 
 ## Data Engineering in Banking
 
-Professional experience delivering data engineering work for **Bank of Montreal (BMO)** at Virtusa, within a banking and financial-services environment.
+Experienced working in the **banking and financial-services domain**, building and supporting enterprise data pipelines, cloud-based ETL workflows, and analytical data platforms.
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%" valign="top">
+`Enterprise ETL` · `Airflow DAGs` · `AWS Glue` · `Amazon S3` · `Amazon Redshift`
 
-- Enterprise ETL workflows
-- Financial data processing
-- AWS-based data platforms
-- Airflow DAG orchestration
+`CloudWatch` · `SNS` · `Data Validation` · `Failure Investigation` · `Financial Data`
 
-</td>
+</p>
 
-<td width="50%" valign="top">
+### Data Flow
 
-- Glue-based transformations
-- S3 data movement
-- Redshift loading
-- CloudWatch monitoring
-- SNS alerting
-- Data validation and failure investigation
+<p align="center">
 
-</td>
+`Source Data` → `S3` → `Airflow` → `Glue` → `Redshift` → `Monitoring`
 
-</tr>
-</table>
+</p>
 
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/abii-18/Retail-Sales_lakehouse">
-
-<img src="./retail-lakehouse.png" width="100%" alt="Retail Sales Lakehouse" />
-
-</a>
-
-### Retail Sales Lakehouse
-
-<a href="https://github.com/abii-18/Retail-Sales_lakehouse">
-Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<a href="https://github.com/abii-18/retail-pyspark-analytics">
-
-<img src="./pyspark-analytics.png" width="100%" alt="PySpark Analytics" />
-
-</a>
-
-### PySpark Analytics
-
-<a href="https://github.com/abii-18/retail-pyspark-analytics">
-Repository →
-</a>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/abii-18/Retail-Sales_lakehouse">
+    <img src="./retail-lakehouse.png" width="48%" alt="Retail Sales Lakehouse" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/abii-18/retail-pyspark-analytics">
+    <img src="./pyspark-analytics.png" width="48%" alt="PySpark Analytics" />
+  </a>
+</p>
 
 ---
 
 ## Certifications
 
 <p align="center">
-  <a href="YOUR_CREDLY_SOLUTIONS_ARCHITECT_BADGE_URL">
-    <img src="./SAA.png" width="90" alt="AWS Certified Solutions Architect - Associate">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_CREDLY_DATA_ENGINEER_BADGE_URL">
-    <img src="./DE.png" width="90" alt="AWS Certified Data Engineer - Associate">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_CREDLY_AI_PRACTITIONER_BADGE_URL">
-    <img src="./AI.png" width="90" alt="AWS Certified AI Practitioner">
-  </a>
+  <img src="./SAA.png" width="80" alt="AWS Solutions Architect Associate">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./DE.png" width="80" alt="AWS Data Engineer Associate">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./AI.png" width="80" alt="AWS AI Practitioner">
 </p>
+
+---
 
 ## Connect
 
