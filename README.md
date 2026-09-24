@@ -109,26 +109,18 @@ Repository →
 ## Certifications
 
 <p align="center">
-
-<a href="YOUR_CREDLY_DATA_ENGINEER_BADGE_URL">
-  <img src="./SAA.png" width="250" alt="AWS Certified Data Engineer - Associate" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_CREDLY_SOLUTIONS_ARCHITECT_BADGE_URL">
-  <img src="./DE.png" width="250" alt="AWS Certified Solutions Architect - Associate" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_CREDLY_AI_PRACTITIONER_BADGE_URL">
-  <img src="./AI.png" width="250" alt="AWS Certified AI Practitioner" />
-</a>
-
+  <a href="YOUR_CREDLY_SOLUTIONS_ARCHITECT_BADGE_URL">
+    <img src="./SAA.png" width="90" alt="AWS Certified Solutions Architect - Associate">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_CREDLY_DATA_ENGINEER_BADGE_URL">
+    <img src="./DE.png" width="90" alt="AWS Certified Data Engineer - Associate">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="YOUR_CREDLY_AI_PRACTITIONER_BADGE_URL">
+    <img src="./AI.png" width="90" alt="AWS Certified AI Practitioner">
+  </a>
 </p>
-
----
 
 ## Connect
 
