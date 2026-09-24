@@ -1,30 +1,8 @@
-<div align="center">
+<!-- HERO -->
 
-<table>
-<tr>
-<td width="220" align="center">
-
-<img src="./hero.png" width="180" alt="Abinav S." />
-
-</td>
-
-<td align="left">
-
-# ABINAV S.
-
-### DATA ENGINEER
-
-Building cloud data pipelines, distributed processing workflows, and analytical data platforms with Python, SQL, PySpark, AWS, and modern data engineering tools.
-
-`Python` `SQL` `PySpark` `AWS` `Airflow` `Glue` `Redshift` `Snowflake`
-
-[GitHub](https://github.com/abii-18) · [LinkedIn](https://www.linkedin.com/in/abinav-s18/) · [Email](mailto:abinavv018@gmail.com)
-
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="./hero.png" width="100%" alt="Abinav S. - Data Engineer" />
+</p>
 
 ---
 
@@ -131,7 +109,23 @@ Repository →
 ## Certifications
 
 <p align="center">
-  <img src="./certifications.png" width="92%" alt="AWS Certifications" />
+
+<a href="YOUR_CREDLY_DATA_ENGINEER_BADGE_URL">
+  <img src="./SAA.png" width="250" alt="AWS Certified Data Engineer - Associate" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_CREDLY_SOLUTIONS_ARCHITECT_BADGE_URL">
+  <img src="./DE.png" width="250" alt="AWS Certified Solutions Architect - Associate" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_CREDLY_AI_PRACTITIONER_BADGE_URL">
+  <img src="./AI.png" width="250" alt="AWS Certified AI Practitioner" />
+</a>
+
 </p>
 
 ---
