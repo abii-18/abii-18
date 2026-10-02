@@ -1,7 +1,7 @@
 <!-- HERO -->
 
 <p align="center">
-  <img src="./hero.png" width="100%" alt="Abinav S. - Data Engineer" />
+  <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/hero.png" width="100%" alt="Abinav S. - Data Engineer" />
 </p>
 
 ---
@@ -19,7 +19,7 @@ Outside of work, I build end-to-end data engineering projects focused on PySpark
 ## What I Build
 
 <p align="center">
-  <img src="./what-i-build.png" width="100%" alt="What I Build" />
+  <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/what-i-build.png" width="100%" alt="What I Build" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ Outside of work, I build end-to-end data engineering projects focused on PySpark
 ## Stack
 
 <p align="center">
-  <img src="./logos.png" width="92%" alt="Data Engineering Stack" />
+  <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/logos.png" width="92%" alt="Data Engineering Stack" />
 </p>
 
 ---
@@ -58,11 +58,11 @@ Experienced working in the **banking and financial-services domain**, building a
 
 <p align="center">
   <a href="https://github.com/abii-18/Retail-Sales_lakehouse">
-    <img src="./retail-lakehouse.png" width="48%" alt="Retail Sales Lakehouse" />
+    <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/retail-lakehouse.png" width="48%" alt="Retail Sales Lakehouse" />
   </a>
   &nbsp;
   <a href="https://github.com/abii-18/retail-pyspark-analytics">
-    <img src="./pyspark-analytics.png" width="48%" alt="PySpark Analytics" />
+    <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/pyspark-analytics.png" width="48%" alt="PySpark Analytics" />
   </a>
 </p>
 
@@ -71,11 +71,11 @@ Experienced working in the **banking and financial-services domain**, building a
 ## Certifications
 
 <p align="center">
-  <img src="./SAA.png" width="80" alt="AWS Solutions Architect Associate">
+  <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/SAA.png" width="80" alt="AWS Solutions Architect Associate">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./DE.png" width="80" alt="AWS Data Engineer Associate">
+  <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/DE.png" width="80" alt="AWS Data Engineer Associate">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./AI.png" width="80" alt="AWS AI Practitioner">
+  <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/AI.png" width="80" alt="AWS AI Practitioner">
 </p>
 
 ---
