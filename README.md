@@ -10,7 +10,7 @@
 
 Data Engineer with ~2.5 years of professional experience working at **Virtusa**, working with AWS-based data engineering systems in the banking and financial-services domain.
 
-Professional work spans enterprise ETL workflows, Airflow orchestration, AWS Glue transformations, S3 data movement, Redshift loading, and production pipeline monitoring.
+Professional work spans enterprise ETL workflows, Airflow orchestration, AWS Glue transformations, S3 data movement, Redshift loading, and production pipeline monitoring. Production batch pipelines support **50M+ financial records daily** for downstream reporting.
 
 Outside of work, I build end-to-end data engineering projects focused on PySpark, modern data platforms, orchestration, cloud data pipelines, and analytical workloads.
 
