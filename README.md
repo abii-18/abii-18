@@ -7,13 +7,15 @@
 ---
 
 ## About
+Hey, I’m Abinav 👋
 
-Data Engineer with ~2.5 years of professional experience working at **Virtusa**, working with AWS-based data engineering systems in the banking and financial-services domain.
+I like understanding how data moves, where pipelines break, and how to make them dependable.
 
-Professional work spans enterprise ETL workflows, Airflow orchestration, AWS Glue transformations, S3 data movement, Redshift loading, and production pipeline monitoring. Production batch pipelines support **50M+ financial records daily** for downstream reporting.
+Currently working on AWS-based financial data pipelines. My work spans Python, SQL, PySpark, Airflow, and Redshift—from incremental ETL to warehouse optimization and production reliability.
 
-Outside of work, I build end-to-end data engineering projects focused on PySpark, modern data platforms, orchestration, cloud data pipelines, and analytical workloads.
+Outside work, I build lakehouse and streaming projects to explore data systems end to end.
 
+[Portfolio](https://abinavfolio.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/abinav-s18/) · [Email](mailto:abinavvs.03@gmail.com)
 ---
 
 ## What I Build
