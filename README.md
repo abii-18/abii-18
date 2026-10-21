@@ -59,12 +59,12 @@ Experienced working in the **banking and financial-services domain**, building a
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/abii-18/Retail-Sales_lakehouse">
-    <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/retail-lakehouse.png" width="48%" alt="Retail Sales Lakehouse" />
+  <a href="https://github.com/abii-18/Retail_Sales_lakehouse">
+    <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/project-cards/retail-sales-lakehouse.svg" width="48%" alt="Retail Sales Lakehouse — batch data pipeline" />
   </a>
   &nbsp;
   <a href="https://github.com/abii-18/CrickX">
-    <img src="https://raw.githubusercontent.com/abii-18/CrickX/master/docs/images/dashboard.png" width="48%" alt="CrickX — Real-time cricket streaming platform" />
+    <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/project-cards/crickx.svg" width="48%" alt="CrickX — real-time cricket streaming platform" />
   </a>
 </p>
 
