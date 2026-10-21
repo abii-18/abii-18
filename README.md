@@ -101,7 +101,7 @@ Portfolio
 </a>
 &nbsp; · &nbsp;
 
-<a href="mailto:abinavv018@gmail.com">
+<a href="mailto:abinavvs.03@gmail.com">
 Email
 </a>
 
