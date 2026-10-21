@@ -63,8 +63,8 @@ Experienced working in the **banking and financial-services domain**, building a
     <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/retail-lakehouse.png" width="48%" alt="Retail Sales Lakehouse" />
   </a>
   &nbsp;
-  <a href="https://github.com/abii-18/retail-pyspark-analytics">
-    <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/pyspark-analytics.png" width="48%" alt="PySpark Analytics" />
+  <a href="https://github.com/abii-18/CrickX">
+    <img src="https://raw.githubusercontent.com/abii-18/CrickX/master/docs/images/dashboard.png" width="48%" alt="CrickX — Real-time cricket streaming platform" />
   </a>
 </p>
 
