@@ -15,7 +15,13 @@ Currently working on AWS-based financial data pipelines. My work spans Python, S
 
 Outside work, I build lakehouse and streaming projects to explore data systems end to end.
 
-[Portfolio](https://abinavfolio.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/abinav-s18/) · [Email](mailto:abinavvs.03@gmail.com)
+<p>
+  <a href="https://abinavfolio.pages.dev/" title="Portfolio"><img src="./social-icons/portfolio.svg" width="30" height="30" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abinav-s18/" title="LinkedIn"><img src="./social-icons/linkedin.svg" width="30" height="30" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:abinavvs.03@gmail.com" title="Email"><img src="./social-icons/email.svg" width="30" height="30" alt="Email" /></a>
+</p>
 ---
 
 ## What I Build
