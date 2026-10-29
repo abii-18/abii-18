@@ -29,7 +29,7 @@ Outside work, I build lakehouse and streaming projects to explore data systems e
 ## Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/stack-categorized.svg?v=3" width="100%" alt="Technology Stack — categorized rows for Languages, Processing, Orchestration, AWS Cloud, Azure (Data Factory, ADLS Gen2, Synapse Analytics, Databricks), Data platforms, Streaming, and Engineering." />
+  <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/stack-services-labeled.svg" width="100%" alt="Technology Stack — categorized rows for Languages, Processing, Orchestration, AWS Cloud, Azure (Data Factory, ADLS Gen2, Synapse Analytics, Databricks), Data platforms, Streaming, and Engineering." />
 </p>
 
 ---
