@@ -28,9 +28,37 @@ Outside work, I build lakehouse and streaming projects to explore data systems e
 
 ## Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abii-18/abii-18/main/logos.png" width="92%" alt="Data Engineering Stack" />
-</p>
+<table>
+  <tr><th align="left">Area</th><th align="left">Technologies</th></tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="26" height="26" alt="Python" /> Python &nbsp; · &nbsp; SQL &nbsp; · &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="26" height="26" alt="Bash" /> Bash</td>
+  </tr>
+  <tr>
+    <td><strong>Processing</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="26" height="26" alt="PySpark" /> PySpark &nbsp; · &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="26" height="26" alt="Apache Spark" /> Apache Spark</td>
+  </tr>
+  <tr>
+    <td><strong>Orchestration</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="26" height="26" alt="Apache Airflow" /> Apache Airflow</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="26" height="26" alt="AWS" /> AWS &nbsp; · &nbsp; S3 &nbsp; · &nbsp; Glue &nbsp; · &nbsp; Redshift &nbsp; · &nbsp; Lambda &nbsp; · &nbsp; Kinesis &nbsp; · &nbsp; CloudWatch &nbsp; · &nbsp; SNS &nbsp; · &nbsp; IAM</td>
+  </tr>
+  <tr>
+    <td><strong>Data platforms</strong></td>
+    <td><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="26" height="26" alt="Snowflake" /> Snowflake &nbsp; · &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="26" height="26" alt="PostgreSQL" /> PostgreSQL &nbsp; · &nbsp; <img src="https://cdn.simpleicons.org/dbt/FF694B" width="26" height="26" alt="dbt" /> dbt</td>
+  </tr>
+  <tr>
+    <td><strong>Streaming</strong></td>
+    <td><img src="https://cdn.simpleicons.org/apachekafka/808B98" width="26" height="26" alt="Kafka" /> Kafka &nbsp; · &nbsp; <img src="https://cdn.simpleicons.org/apacheflink/E6526F" width="26" height="26" alt="Flink" /> Flink &nbsp; · &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="26" height="26" alt="Spark Structured Streaming" /> Spark Structured Streaming</td>
+  </tr>
+  <tr>
+    <td><strong>Engineering</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="26" height="26" alt="Docker" /> Docker &nbsp; · &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="26" height="26" alt="Git" /> Git</td>
+  </tr>
+</table>
 
 ---
 
